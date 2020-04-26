@@ -1,4 +1,4 @@
-# GoFinances
+# :chart_with_upwards_trend: GoFinances
 
 GoFinances is a project developed on Bootcamp Rocketseat for help you to manage your finances. This project is able to import your files csv this application.
 
